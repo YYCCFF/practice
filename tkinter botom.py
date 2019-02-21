@@ -1,3 +1,4 @@
+#python
 import tkinter as tk
 
 def pushed(self):
