@@ -1,3 +1,4 @@
+#python
 list=["a","b","c"]
 result = ""
 for x in list:
