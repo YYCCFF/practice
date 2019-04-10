@@ -18,3 +18,7 @@ print(random.uniform(-100,100))
 
 #0から1までの数をランダムで出力(Output random numbers from 0 to 1)
 print(random.random())
+
+#サイコロを振る(Throw dice)
+dice=[1,2,3,4,5,6]
+print(random.choice(dice))
