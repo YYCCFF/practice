@@ -22,3 +22,6 @@ print(random.random())
 #サイコロを振る(Throw dice)
 dice=[1,2,3,4,5,6]
 print(random.choice(dice))
+
+#"Beatles"の中から１文字ランダムに出力される(One character is randomly output from "Beatles")
+print(random.choice("Beatles"))
