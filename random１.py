@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #random関数挿入(Random function insertion)
 import random
 
