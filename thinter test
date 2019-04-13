@@ -1,4 +1,5 @@
-python
+# -*- coding: utf-8 -*-
+#python
 # practice
 
 import tkinter as tk
